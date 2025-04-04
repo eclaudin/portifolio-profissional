@@ -22,7 +22,7 @@ Fui responsável pela implantação e homologação de servidores Linux para amb
 **🛠️ Habilidades Utilizadas:**  
 `Linux`, `Shell Script`, `Ansible`, `ITIL`, `ISO/IEC 27001`, `ServiceNow`, `Datacenter`
 
-![Deploy de Servidores Linux](imagem-servidores.png)
+![Deploy de Servidores Linux](https://github.com/eclaudin/portifolio-profissional/blob/imagem-servidores.png?raw=true)
 
 
 ---
@@ -44,7 +44,7 @@ Como consultor técnico, atuei no suporte e administração de ambientes multicl
 **🛠️ Habilidades Utilizadas:**  
 `Google Cloud`, `Azure`, `Oracle Cloud`, `Linux`, `Bash`, `Ansible`, `ITIL`, `ISO/IEC 20000`, `ServiceNow`
 
-![Infraestrutura Multicloud](imagem-vm-cloud.png)
+![Infraestrutura Multicloud](https://github.com/eclaudin/portifolio-profissional/blob/imagem-vm-cloud.png?raw=true)
 
 
 ---
