@@ -42,7 +42,7 @@ Como consultor técnico, atuei no suporte e administração de ambientes multicl
 - Integração com sistemas de ticket (ServiceNow)  
 
 **🛠️ Habilidades Utilizadas:**  
-`Google Cloud`, `Azure`, `Oracle Cloud`, `Linux`, `Bash`, `Ansible`, `ITIL`, `ISO/IEC 20000`, `ServiceNow`
+`Google Cloud`, `Azure`, `Oracle Cloud`, `Linux`, `Bash`, `Terraform`, `Ansible`, `ITIL`, `ISO/IEC 20000`, `ServiceNow`
 
 ![Infraestrutura Multicloud](imagem-vm-cloud.png?raw=true)
 
