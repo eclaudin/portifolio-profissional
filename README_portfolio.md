@@ -52,4 +52,4 @@ Como consultor técnico, atuei no suporte e administração de ambientes multicl
 ### 📫 Entre em contato
 Se você quiser conversar sobre algum projeto, estou à disposição! 
 
-![Meu Linkedin].(https://www.linkedin.com/in/eclaudin?raw=true)
+![Meu Linkedin].(https://www.linkedin.com/in/eclaudin?raw=false)
