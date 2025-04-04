@@ -22,6 +22,8 @@ Fui responsável pela implantação e homologação de servidores Linux para amb
 **🛠️ Habilidades Utilizadas:**  
 `Linux`, `Shell Script`, `Ansible`, `ITIL`, `ISO/IEC 27001`, `ServiceNow`, `Datacenter`
 
+![Deploy de Servidores Linux](A_2D_digital_diagram_illustrates_the_deployment_of.png)
+
 ---
 
 ## ☁️ Projeto 2: Administração de Ambientes Multicloud para Empresas Corporativas
@@ -40,6 +42,9 @@ Como consultor técnico, atuei no suporte e administração de ambientes multicl
 
 **🛠️ Habilidades Utilizadas:**  
 `Google Cloud`, `Azure`, `Oracle Cloud`, `Linux`, `Bash`, `Ansible`, `ITIL`, `ISO/IEC 20000`, `ServiceNow`
+
+![Infraestrutura Multicloud](A_2D_digital_illustration_diagram_illustrates_a_mu.png)
+
 
 ---
 
