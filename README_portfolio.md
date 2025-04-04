@@ -22,7 +22,7 @@ Fui responsável pela implantação e homologação de servidores Linux para amb
 **🛠️ Habilidades Utilizadas:**  
 `Linux`, `Shell Script`, `Ansible`, `ITIL`, `ISO/IEC 27001`, `ServiceNow`, `Datacenter`
 
-![Deploy de Servidores Linux](https://github.com/eclaudin/portifolio-profissional/blob/imagem-servidores.png?raw=true)
+![Deploy de Servidores Linux](imagem-servidores.png?raw=true)
 
 
 ---
